@@ -1,5 +1,7 @@
 # EdgeSharpnessAnalysis
 
+[![DOI](https://zenodo.org/badge/535603637.svg)](https://zenodo.org/badge/latestdoi/535603637)
+
 
 Jupyter notebook to apply the edge sharpness algorithm to an image containing sharp edges.
 
